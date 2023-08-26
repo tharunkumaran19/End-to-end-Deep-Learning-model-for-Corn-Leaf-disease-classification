@@ -1,1 +1,2 @@
-
+The PlantVillage dataset consists of 54303 healthy and unhealthy leaf images divided into 38 categories by species and disease.
+Here we have 4 different categories of Corn leaf folders namely CornBlight,CommonRust,GrayLeafSpot and Healthy Corn plant images.
